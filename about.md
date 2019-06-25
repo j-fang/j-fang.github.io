@@ -23,7 +23,7 @@ There is much to learn about a person by discovering who people think they are, 
 Adjectives that I think best describe me:
 1.	Observant:: People tend to think I’m “quiet”, but I think I’m “observant”. In my moments of silence, I often pay attention to the things existing and happening around me.
 2.	Conscientious:: Promoting and maintaining environmental and human health interests me. Learning about these topics have made me more thoughtful and intentional about the impact my daily actions have on the environment and people.
-3.	Adventurous:: My mom instilled in me an excitement to try new things all the time because my parents worked around the clock most of my life. Knowing they couldn’t provide the new experiences to expose my brother and me to the world, they said ‘yes’ to any opportunity for my brother and I to get out (e.g. school field trips, any event invite, after school programs).
+3.	Adventurous:: My mom instilled in me an excitement to try new things all the time because my parents worked around the clock most of my life. Knowing they couldn’t provide the new experiences to expose my brother and me to the world, they said ‘yes’ to every opportunity for my brother and I to get out of our bubble at home (e.g. school field trips, any event invite, after school programs).
 4.	Patient:: Growing up in a low-income environment, I didn’t get what I wanted when I wanted. I learned to wait until I could get it later, or I waited until I no longer desired what I wanted. 
 5.	Open-minded:: College opened up many opportunities for me to travel to new places and interact with people I never expected to know. They’ve shown me a different way of living and thinking, which has enabled me to be more accepting and considerate of other ideas. You’ll never see me completely block off a new idea or suggestion unless it directly violates my values.
 
@@ -36,8 +36,8 @@ Adjectives that my friends use to describe me:
 
 Adjectives that I want to embody more of…as of 6/17/19:
 1.	Confident:: I don’t think anyone ever uses this word to describe themselves (at least, I don’t know anyone). However, there have been many moments lately where I question myself, “You know you should have done that…Why didn’t you do it?” I want to experience less of those moments and just do more of what I know I should be doing.
-2.	Strong:: I want to feel good in my body and believe that I am physically strong. I can generally do one solid pull-up, and I’m aiming to make that five. As a student, I live a pretty sedentary lifestyle; I’m planning to get back into a routine this summer so I’m regularly active.
+2.	Strong:: I want to feel good in my body and believe that I am physically strong. I can generally do one solid pull-up, so now I’m aiming to make that five. As a student, I live a pretty sedentary lifestyle; I’m planning to be more regularly active this summer.
 3.	Articulate:: This goes back to why I started this blog. 
 4.	Funny:: I think everything is better with a sprinkle of humor. I think I’m decent at making others smile, but I’d like to make people laugh more. 
-5.	Crazy:: I generally take things more seriously than not, so I am realistic about the ideas and things I think about and do. I want to think more outside the box, more creatively, and innovate more. And I want to act more on these thoughts.
+5.	Crazy:: I generally take things more seriously than not, so I am realistic about the ideas and things I think about and do. I want to think more outside the box, more creatively, and innovate more. And I want to act on these 'crazy' ideas.
 
