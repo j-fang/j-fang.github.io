@@ -181,8 +181,9 @@ pre {
   margin-left: auto;
   /*padding-right: $spacing-unit;
   padding-left: $spacing-unit;*/
-  padding-right: 20%;
-  padding-left: 20%;
+  /*padding below comment in an attempt to fix boxes*/
+  /*padding-right: 20%;
+  padding-left: 20%;*/
   @extend %clearfix;
 
   @include media-query($on-laptop) {

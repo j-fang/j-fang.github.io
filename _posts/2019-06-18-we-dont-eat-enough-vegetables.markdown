@@ -2,6 +2,7 @@
 layout: post
 title:  "We don't eat enough vegetables."
 date:   2019-06-18 01:05:25 -0700
+category: ponderings
 ---
 **Me + Plant-based diet**
 

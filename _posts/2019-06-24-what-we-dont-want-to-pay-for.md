@@ -2,6 +2,7 @@
 layout: post
 title:  "What we don't want to pay for."
 date:   2019-06-24 01:05:25 -0700
+category: ponderings
 ---
 
 I found a book club at [BookPeople][BookPeople] called [Well Read Black Girl][WRBG]. I got a vibe 

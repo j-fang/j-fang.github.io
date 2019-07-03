@@ -2,6 +2,7 @@
 layout: post
 title:  "Lean into the fear."
 date:   2019-07-02 01:05:25 -0700
+category: adventures
 ---
 
 My brother was always the risk taker. He would pick fake fights with family friends. On his first time on the ice rink, he skated as if he were a natural. He was the only one in the family to dare ride a roller coaster, and because my dad's love for him was greater than his fear, my dad rode with him (after that ride in Universal Studios, both were like, "that was too scary..."). 

@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Ponderings
-permalink: /ponderings/
+title: Adventures
+permalink: /adventures/
 ---
-
 <div class="home">
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
-        {%- if post.category == 'ponderings' -%}
+        {%- if post.category == 'adventures' -%}
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <span class="post-meta">{{ post.date | date: date_format }}</span>
           <h3>
