@@ -133,8 +133,8 @@ pre {
   /*padding-right: $spacing-unit;
   padding-left: $spacing-unit;*/
   /*padding below comment in an attempt to fix boxes*/
-  /*padding-right: 20%;
-  padding-left: 20%;*/ }
+  padding-right: 1%;
+  padding-left: 1%; }
   @media screen and (max-width: 800px) {
     .wrapper {
       max-width: -webkit-calc(800px - (30px));
