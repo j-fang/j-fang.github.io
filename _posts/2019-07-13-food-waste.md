@@ -12,7 +12,7 @@ What frustrates me about food waste is:
 
 2) there are hungry people in the world who would be so happy and grateful to eat your leftovers. Yet, they can't. And these people who aren't finishing their food often don't seem to appreciate or understand how fortunate they are to have food in front of them. They don't show any remorse over the waste of food. 
 
-3) most places and people do not dispose of their food waste properly. They often just toss it onto the trash, where the food will rot in landfills, releasing large amounts of carbon dioxide that get trapped as more trash piles on top. This is problematic for our environment, because this trapping warms the atmosphere, thereby contributing to climate change in a not-so-beneficial way. 
+3) most places and people do not dispose of their food waste properly. They often just toss it onto the trash, where the food will rot in landfills, releasing large amounts of methane that get trapped as more trash piles on top. This is problematic for our environment, because this trapping warms the atmosphere, thereby contributing to climate change in a not-so-beneficial way. 
 
 And btw, reducing food waste is #3 on [Project Drawdown's][Drawdown] list of climate solutions. Project Drawdown is a non-profit that curated a list of top 100 actions that people can take to effectively tackle climate change, based on [research][research] conducted around the world on climate change.
 
