@@ -14,7 +14,7 @@ What frustrates me about food waste is:
 
 3) most places and people do not dispose of their food waste properly. They often just toss it onto the trash, where the food will rot in landfills, releasing large amounts of carbon dioxide that get trapped as more trash piles on top. This is problematic for our environment, because this trapping warms the atmosphere, thereby contributing to climate change in a not-so-beneficial way. 
 
-Haha, if you don't know me, you must have some opinions of me now. 
+And btw, reducing food waste is #3 on [Project Drawdown's][Drawdown] list of climate solutions. Project Drawdown is a non-profit that curated a list of top 100 actions that people can take to effectively tackle climate change, based on [research][research] conducted around the world on climate change.
 
 My mom raised me to eat every last grain of rice out of my bowl. No waste. When I was in India for a summer, I saw another level of "cleaning your plate". People would use their chapati and/or hands to get every last grain of rice and drop of sauce. I've come to adopt a similar eating habit. 
 
@@ -23,3 +23,6 @@ If I know I am going to an event where food is available, I will bring my own re
 I love my friends. They will have me finish their leftovers or I will have them finish mine. But with people I'm not that close with, it is an odd request to make sometimes. Depending on how hungry, how bothered I am, how good the food is, how courageous I am in that moment, I will ask if I can finish their food. Sometimes, I leave it, say nothing, and leave bothered. I don't want to be people's "trashcan". 
 
 I'm not saying people should do anything. I just wish people would be mindful of the impact of their actions and choices (in this case, with respect to food waste).
+
+[Drawdown]: https://www.drawdown.org/solutions/food/reduced-food-waste
+[research]: https://www.drawdown.org/frequently-asked-questions
