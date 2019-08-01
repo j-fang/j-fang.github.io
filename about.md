@@ -34,10 +34,10 @@ Adjectives that my friends use to describe me:
 4.	Consistent:: I stick to my values and live by them. I try to stand firm with my beliefs and act accordingly. I try to tell others why I do certain things and don't do others, and if you hear me talk enough, you'll notice the common threads in my life.
 5.	Positive:: I have a habit of smiling a lot (I don’t even realize that I do it anymore). This is because I remember as a kid, people who smiled at me when responding always made me feel better than those who didn’t, so I learned to replicate. It makes people feel good. I also tend to not judge people very harshly, and I often look towards the bright side.
 
-Adjectives that I want to embody more of…as of 6/17/19:
-1.	Confident:: I don’t think anyone ever uses this word to describe themselves (at least, I don’t know anyone). However, there have been many moments lately where I question myself, “You know you should have done that…Why didn’t you do it?” I want to experience less of those moments and just do more of what I know I should be doing.
-2.	Strong:: I want to feel good in my body and believe that I am physically strong. I can generally do one solid pull-up, so now I’m aiming to make that five. As a student, I live a pretty sedentary lifestyle; I’m planning to be more regularly active this summer.
-3.	Articulate:: This goes back to why I started this blog. 
-4.	Funny:: I think everything is better with a sprinkle of humor. I think I’m decent at making others smile, but I’d like to make people laugh more. 
-5.	Crazy:: I generally take things more seriously than not, so I am realistic about the ideas and things I think about and do. I want to think more outside the box, more creatively, and innovate more. And I want to act on these 'crazy' ideas.
+Adjectives that I want to embody more of…as of 7/31/19:
+1. Confident:: I don’t think anyone ever uses this word to describe themselves (at least, I don’t know anyone). However, there have been many moments lately where I question myself, “You know you should have done that…Why didn’t you do it?” I want to experience less of those moments and just do more of what I know I should be doing.
+2. Strong:: I want to feel good in my body and believe that I am physically strong. I can generally do one solid pull-up, so now I’m aiming to make that five. As a student, I live a pretty sedentary lifestyle; I’m planning to be more regularly active this summer.
+3. Funny:: I think everything is better with a sprinkle of humor. I think I’m decent at making others smile, but I’d like to make people laugh more. 
+4. Crazy:: I generally take things more seriously than not, so I am realistic about the ideas and things I think about and do. I want to think more outside the box, more creatively, and innovate more. And I want to act on these 'crazy' ideas.
+5. Loving:: I hold high expectations for myself and sometimes this translates to others, especially my close friends and family. I want to judge less and love more.
 
