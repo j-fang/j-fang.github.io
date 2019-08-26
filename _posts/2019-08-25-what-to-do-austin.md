@@ -2,7 +2,7 @@
 layout: post
 title:  "My Austin to-do list."
 date:   2019-08-25 01:05:25 -0700
-category: lifestyle
+category: adventures
 ---
 
 Wow, last week in Austin over. I've had frustrations as is normal with all new challenging experiences, but it was overall a really really good experience (I say this with a big smile) because I've learned so much more than I could have imagined. About what I like and don't like, what I want and don't want in my life, professionally and personally. I'm also so much more comfortable and happy with who I am. Best summer I've had yet. 
