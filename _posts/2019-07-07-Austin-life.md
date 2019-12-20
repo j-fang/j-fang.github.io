@@ -4,7 +4,7 @@ title:  "My life in Austin."
 date:   2019-07-07 02:05:25 -0700
 category: lifestyle
 ---
-As of 7/7/2019, I am 5 weeks into my summer here in Austin. 
+I'm 5 weeks into my summer here in Austin. 
 
 **How have I been spending my time?**
 
@@ -31,7 +31,7 @@ My weekend routine includes shopping at farmers' market for groceries; doing som
 
 **How do I like it?**
 
-I'm pretty satisfied with my summer so far (outside of work. inside of work is another story that I will touch on later). I'm doing the things I want to do: spending time with people who make me smile and laugh; staying in touch with my family and friends; working on a cool project that I'm really excited to launch later this year; exploring a new city at a comfortable pace; going to my local farmers' markets; managing to feed myself well and exercise regularly.
+I'm pretty satisfied with my summer so far (outside of work. inside of work is another story). I'm doing the things I want to do: spending time with people who make me smile and laugh; staying in touch with my family and friends; working on a cool project that I'm really excited to launch later this year; exploring a new city at a comfortable pace; going to my local farmers' markets; managing to feed myself well and exercise regularly.
 
 
 [WakingUp]: https://wakingup.com/
