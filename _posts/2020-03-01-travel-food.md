@@ -24,22 +24,23 @@ I attempted to follow a general format of:
 **Name of place**, location -- what I've eaten here/what's good; *why this made it on the list*
 
 **Tried and tested** (USA, ordered alphabetically by city name):
-* **[Xian Sushi & Noodles][xian]**, Austin, TX, USA -- Chinese noodles; *affordable noodles, satisfies Chinese flavor cravings*
-* **[Chi’lantro][chilantro]**, Austin, TX, USA -- build your own; *affordable, filling, good flavors, quick meal*
-* **[Arpeggio Grill][arpeggio]**, Austin, TX, USA -- vegetarian mesa platter, grilled fish platter; *everything was super flavorful, filling at affordable prices*
-* **[A la minute][alaminute]**, Claremont, CA, USA -- liquid nitrogen ice cream; *really fresh flavors*
-* **[Wild Flour Bread][wild flour]**, Freestone, CA, USA -- organic bread; *organic garden, tasty, fresh*
-* **[Napoleon Bakery][napoleon]**, Oakland, CA, USA -- Chinese egg tarts, buns, baos; *cheap to your hearts’ content, local, authentic*
-* **[Ruby King’s Bakery][ruby]**, Oakland, CA, USA -- Chinese wife cakes, mooncakes; *local, authentic*
-* **[The Vine Mediterranean Cafe][vine]**, St. Louis, MO, USA -- munazula; *affordable and filling*
-* **[Mission Taco][mission taco]**, St. Louis, MO, USA -- $2 tacos; *go for the vibe*
-* **[Ashirwad][ashirwad]**, Upland, CA, USA -- I love me the thali, vada paav, palak paneer (but tbh, you can’t go wrong with anything here, unless you don’t like a particular Indian flavor); *authentic Indian food*
+* **[Xian Sushi & Noodles][xian]**, Austin, TX, USA -- Chinese noodles; **affordable noodles, satisfies Chinese flavor cravings**
+* **[Chi’lantro][chilantro]**, Austin, TX, USA -- build your own; **affordable, filling, good flavors, quick meal**
+* **[Arpeggio Grill][arpeggio]**, Austin, TX, USA -- vegetarian mesa platter, grilled fish platter; **everything was super flavorful, filling, affordable**
+* **[A la minute][alaminute]**, Claremont, CA, USA -- liquid nitrogen ice cream; **really fresh flavors**
+* **[Wild Flour Bread][wild flour]**, Freestone, CA, USA -- organic bread; **organic garden, tasty, fresh**
+* **[Napoleon Bakery][napoleon]**, Oakland, CA, USA -- Chinese egg tarts, buns, baos; **cheap to your hearts’ content, local, authentic**
+* **[Ruby King’s Bakery][ruby]**, Oakland, CA, USA -- Chinese wife cakes, mooncakes; **local, authentic**
+* **[The Vine Mediterranean Cafe][vine]**, St. Louis, MO, USA -- munazula; **affordable, tasty, filling**
+* **[Mission Taco][mission taco]**, St. Louis, MO, USA -- $2 tacos; **go for the vibe**
+* **[Ashirwad][ashirwad]**, Upland, CA, USA -- I love me the thali, vada paav, palak paneer (but tbh, you can’t go wrong with anything here, unless you don’t like a particular Indian flavor); **authentic Indian food**
 
 
 **Not in USA:**
 * **Eat Indian mother or grandma's homecooking**
-* Some **vegan afternoon tea**, London -- my friend and I stumbled upon it, had outside seating with bees attracted to the honey for our sconces; *not too sweet, and a very pleasant experience*
-* **[Arroz2][arroz]**, Toledo, Spain -- paella negra; *local spot for good paella*
+* Some **vegan afternoon tea**, London -- my friend and I stumbled upon it, had outside seating with bees attracted to the honey for our sconces; **not too sweet, a very pleasant experience**
+* **[Jacinta y María Chocolates][jacinta]**, Toledo, Spain -- ice cream y mazapán; **super nice owner (she recommended Arroz2), Spanish treats that hit the spot on a hot day**
+* **[Arroz2][arroz]**, Toledo, Spain -- paella negra; **local spot for good paella**
 
 
 [xian]: https://www.xianfresh.com/
@@ -53,6 +54,7 @@ I attempted to follow a general format of:
 [mission taco]: https://www.missiontacojoint.com/
 [ashirwad]: http://ashirwadexperience.com/
 
+[jacinta]: https://www.yelp.com/biz/jacinta-y-mar%C3%ADa-chocolates-toledo
 [arroz]: https://arroz2.es/
 
 
