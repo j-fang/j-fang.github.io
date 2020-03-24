@@ -11,11 +11,13 @@ I realized that I've surrounded myself with people who are serving others and am
 
 * people are connecting with others. we're spending time with families, finding ways to connect with friends, learning to check in on people we know.
 * communities are stepping up. in my neighborhood, people are offering to help older people purchase goods, share information about what's still available where, share resources and offer services for those who are in need.
-* music. dnice's homeschool (aka club quarantine). singers' free concerts on Insta.
-* food. chefs are cooking in their homes and sharing the experience and lessons with others. many chefs and organizations are offering free meals to the community. schools are offering free meals for children and families.
+* music is uplifting people in their homes. dnice's homeschool (aka club quarantine). singers' free concerts on Insta.
+* celebration of food. chefs are cooking in their homes and sharing the experience and lessons with others. many chefs and organizations are offering free meals to the community. schools are offering free meals for children and families.
 * love for farmers. so many people are finding ways to support their local farmers directly. farmers are still farming. they're literally the heart and blood of our food system, bless them.
 * with so many people off roads, not traveling in planes, not outside (and littering), our air is cleaner. waters are cleaner. 
-* downtime. we're conditioned to feel like we have to always be busy, doing something. and i think this is an important time to give ourselves a break, relax, take care of ourselves.
-* people are caring for personal health. exercising. cooking for themselves. reading. journaling. spending time with others. dancing. singing. and so much more.
+* downtime for many. we're conditioned to feel like we have to always be busy, doing something. and i think this is an important time to give ourselves a break, relax, take care of ourselves.
+* people are caring for their personal health. exercising. cooking for themselves. reading. journaling. spending time with others. dancing. singing. and so much more.
 * more and more attention, respect, and gratitude for all our service workers and how integral they are to our daily lives. the number of funds and donations to support those impacted by the pandemic is on the up and up.
-* heathcare providers. massive gratitude to them and all they do.
+* massive gratitude to them is spreading to heathcare providers and for all they do.
+* appreciation teachers, these amazing people, are on the rise as parents spend 24/7 with their babies and some even attempt homeschooling. ain't that easy.
+* energy is being directed to tending our land. more of my neighbors are starting to garden with their time. i am too!
