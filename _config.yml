@@ -16,13 +16,8 @@ status3: adoringly pestering my friends + fam
 # status4: adoringly pestering my fam + friends
 email: fang.j.sra@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I’ve put off writing this blog for years. 
-  Because I've been stressing over making myself sound like I know my stuff.
-  But I'm not perfect.
-  I'm trialing through life, just as everybody else is. 
-  And I’m trying to embrace this by 
-  finally just doing what I’ve been wanting to do: 
-  processing and sharing my thoughts through written words, unfiltered.  
+  I’m claiming space to express my thoughts right here, 
+  no matter the doubts running through my mind may say.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
